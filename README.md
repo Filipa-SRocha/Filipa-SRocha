@@ -1,4 +1,4 @@
-## Hi, I'm Filipa Rocha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Filipa Rocha 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=filipa-srocha&show_icons=true&theme=radical">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipa-srocha&theme=radical">
