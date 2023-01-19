@@ -1,8 +1,4 @@
 ## Hi, I'm Filipa Rocha 
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=filipa-srocha&show_icons=true&theme=radical">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipa-srocha&theme=radical">
-</div>
 
 
 ## Find me at
